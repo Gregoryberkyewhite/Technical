@@ -1,0 +1,37 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+}
+#div{
+  background: blue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  left: 5px;
+  right: 5px;
+  top: 0;
+  position: relative;
+}
+.icon{
+width: 90px;
+position:absolute;
+left: 20px;
+top: 11px;
+border: none;
+border-radius: 5px;
+}
+hr{
+  background-color: blue;
+}
+#author{
+  width: 80px;
+}
+
+#auth{
+  display: inline-block;
+  vertical-align: top;
+}
+strong{
+  line-height: 15px;
+}
